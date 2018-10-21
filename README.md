@@ -1,15 +1,10 @@
 # Project1
-# Starter For Firebase, React Native, Redux Applications With 100% Of Code In Common Between IOS And Android, with built In Authentication, Crud Example And Form Validation.
 
 ## Features
 
 - Authentication
 - CRUD ( Create, Read, Update, Delete )
 - Form validation
-
-## Preview
-
-<img src="previewgif.gif" width="300">
 
 ## Getting started
 
